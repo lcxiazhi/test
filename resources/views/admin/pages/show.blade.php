@@ -1,1 +1,1 @@
-<div>{{$show}}</div>
+<div>{{$show行行都是逗逼}}</div>
