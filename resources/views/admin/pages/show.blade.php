@@ -1,1 +1,1 @@
-<div>{{$show}}</div>
+<div>{{$sh你是我的w}}</div>
