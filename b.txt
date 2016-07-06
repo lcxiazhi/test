@@ -1,2 +1,3 @@
 "bbb"
 "add a from a"
+"b is private"
